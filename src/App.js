@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <div className="bg-info">Hello there from docker run2, i am trying to dig this.ddd</div>
+        <div className="bg-info">I was change on the feature branch</div>
       </header>
     </div>
   );
